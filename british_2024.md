@@ -17,6 +17,10 @@ Further back, the midfield battle heated up quickly. Nico Hülkenberg ran consis
 The first key moment came around lap 25, when rain began to fall. The difference between drivers became immediately clear. Norris still managed a high 1:31 on one of the first damp laps, but lap times quickly dropped: Russell and Hamilton fell to 1:35–1:37, while some midfield drivers, such as Hülkenberg, posted times as high as 1:38–1:40 on slick tyres.
 
 
+![Lap time evolution during the 2024 British Grand Prix](silverstone_laptimes.png)
+
+*Lap time evolution for the key drivers during the 2024 British Grand Prix. The sharp increase around lap 25 marks the first rain shower, while the drop around lap 40 shows the switch back to slick tyres. Source: F1-Tempo.*
+
 
 Oscar Piastri was among the first to pit for intermediate tyres. He immediately set times in the low 1:36s, significantly faster than those still on slicks. This difference – up to 4–6 seconds in a single lap – allowed him to gain several positions. In contrast, Norris and Mercedes waited one more lap, losing that crucial time.
 
